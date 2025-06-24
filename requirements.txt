@@ -1,0 +1,8 @@
+LIBRARIES USED IN THIS PROJECT:
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
